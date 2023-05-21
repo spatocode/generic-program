@@ -1,9 +1,8 @@
 # Generic Program
 
 # Usage
-This program can be used as a package or run as a standalone program from the commandline
+This program can be used by running the below command from the commandline
 
-To run the program as a standalone
 `python3 program.py <input_file> <output_file>`
 
 Example:
