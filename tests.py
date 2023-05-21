@@ -1,7 +1,7 @@
 import os
 import json
 import unittest
-from program import sniff_schema
+from main import sniff_schema
 
 
 class SchemaGenerationTest(unittest.TestCase):
